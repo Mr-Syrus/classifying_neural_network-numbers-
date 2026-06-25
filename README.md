@@ -1,1 +1,1 @@
-## Простейшая задача классификации, машинное зрение
+## The simplest classification task, machine vision
